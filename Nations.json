@@ -1,0 +1,3086 @@
+[
+ {
+		"name": "Oman",
+		"leaderName": "Saif bin Sultan",
+		"adjective": [
+			"Omani"
+		],
+		"startBias": [
+			"Coast"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "h.",
+		"startIntroPart2": "g.",
+		"declaringWar": "We will smash your army to nothing !",
+		"attacked": "May God bless us.",
+		"defeated": "Your greed will kill you one day.",
+		"introduction": "Welcome to Oman, Why not tell me about your empire ?",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			"Yes?",
+			"What is it ?",
+			"I'm listening"
+ 		                  ],
+		"neutralNo": [
+			"I cannot accept.",
+			"No, i can't accept",
+			"I'm afraid i cannot help."
+		],
+		"neutralYes": [
+			"Nice, thanks",
+			"Great deal.",
+			"Sure."
+		],
+		"hateHello": "Hmm?",
+		"hateLetsHearIt": [
+			"Speak!",
+			"Well?",
+			"What do you want?"
+		],
+		"hateNo": [
+			"No.",
+			"Is this a demand?",
+			"I can't accept this."
+		],
+		"hateYes": [
+			"Well, good enough.",
+			"We do need this.",
+			"Then i must accept."
+		],
+		"afterPeace": [
+			"We do not want this to happen again."
+		],
+		"tradeRequest": "I want to trade some things here.",
+		"outerColor": [
+			185,
+			57,
+			56
+		],
+		"innerColor": [
+			201,
+			156,
+			52
+		],
+		"cities": [
+			"Muscat",
+			"Nizwa",
+			"Sur",
+			"Mirbat",
+			"Salalah",
+			"Al Ghaydar",
+			"Al Mukalla",
+			"Lakaba",
+			"Ibla",
+			"Al Ain",
+			"Ras-Alkhaimah",
+			"Dubai",
+			"Al-Dhuhabi",
+			"Bandar Assab",
+			"Mirab",
+			"Asab",
+			"Sohar",
+			"Furaijah",
+			"Konarak",
+			"Ubar",
+			"Thumrait",
+			"Qishn",
+			"Sayhurt",
+			"Bosaso",
+			"Qualhallah",
+			"Calula",
+			"Quandala",
+			"Bereeda",
+			"Ufyn",
+			"Bargaal",
+			"Hordio",
+			"Taleh",
+			"Haylan",
+			"Wisil",
+			"Hobyo",
+			"Quardho",
+			"Al Shihr",
+			"Shalim"
+		]			
+	},
+ {
+		"name": "Bavaria",
+		"leaderName": "Ludwig II",
+		"adjective": [
+			"Bavarian"
+		],
+		"startBias": [
+			"Grassland"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "Your miserable people yearn for freedom and i shall give them it!",
+		"attacked": "Are you dreaming? Then let me wake you up from it!",
+		"defeated": "Bavaria falls to the hand of barbarians, i have failed.",
+		"introduction": "Welcome to Bavaria, i invite you and your artists and writers to come to our land, a beautiful land of glorious natural wonders.",
+		"neutralHello": "Welcome.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "I never invited you, did i?",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"I have to rebuild some things."
+		],
+		"tradeRequest": "I invite you my castle to negotiate this deal.",
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
+			79,
+			241,
+			255
+		],
+		"uniqueName": "Paradise Alpines",
+  "uniques": ["[+4 Culture] from every [Mountain]","[+2 Happiness] from every [Mountain]","[+2 Culture] from every [Great Improvement]"],
+		"cities": [
+			"Munich",
+			"Ingolstadt",
+			"Augsburg",
+			"Regensburg",
+			"Nuremberg",
+			"Wurzburg",
+			"Rosenheim",
+			"Saarbrucken",
+			"Bayreuth",
+			"Straubing",
+			"Erlangen",
+			"Bamberg",
+			"Landshut",
+			"Kulmbach",
+			"Weiden",
+			"Kempten",
+			"Staurnberg",
+			"Hof",
+			"Coburg",
+			"Marktredwitz",
+			"Passau",
+			"Berghausen",
+			"Neuburg an der Donaus",
+			"Anbach",
+			"Grafenwöhr",
+			"Schweinfurt",
+			"Garmisch-Partenkirchen",
+			"Nördlingen",
+			"Erding",
+			"Freising",
+			"Freiburg im Breisgau",
+			"Staurnberg",
+			"Dingolfing"
+ ]
+ },
+ 	{
+
+		"name": "Wales",
+		"leaderName": "Llywelyn",
+		"adjective": [
+			"Welsh"
+		],
+		"startBias": [
+			"Grassland"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "This peace too fragile, i cannot let you go any longer.",
+		"attacked": "You have severely underestimated us.",
+		"defeated": "You better know how to please my people, or else...",
+		"introduction": "Welcome to Wales, i am Llywelyn, King of Gwynedd.",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "What?",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"May this peace last long."
+		],
+		"tradeRequest": "My friend, i believe you will want this.",
+		"outerColor": [
+			204,
+			33,
+			33
+		],
+		"innerColor": [
+			242,
+			255,
+			31
+		],
+		"uniqueName": "The Mabinogion",
+  "uniques": ["[Great Artist] is earned [20]% faster","[+2 Culture] from every [Fort]","[+2 Culture] in all cities with a garrison"],
+		"cities": [
+		"Rhuddlan","Aberffraw","Bangor","Dolbadam","Dolwyddelan","Garth Celyn","Aberconwy","Deganwy","Saint Asaph","Nefyn","Cemais","Penrhos Lligwy","Llanfaes","Ruthin","Abergwingregin","Abergele","Neigwl","Rhosyr","Pwllheli","Llanbelig","Llanewy","Pennent Machno","Aberdaron","Llansannan","Llangernyw","Llanefydd","Llanelwy","Edeirnion","Maelor","Iâl","Meirionydd","Dunoding","Dinmael","Din Arth","Caer Rhun","Caer Gybi","Ynys Lannog","Caer Legion"
+		]			
+	},
+
+ {
+
+		"name": "Algeria",
+
+		"leaderName": "Abd Al-Rahman",
+
+		"adjective": [
+			"Algerian"
+		],
+		"startBias": [
+			"Coast","Desert"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "Justice cannot be achieved with you on the throne.",
+		"attacked": "I knew you can't be trusted! Prepare to be crushed!",
+		"defeated": "It looks like my time is up...",
+		"introduction": "This land is the Imamate of Algiers, we desire to be left alone",
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "Don't annoy me.",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"Very good, now go away"
+		],
+		"tradeRequest": "I propose this deal, will you accept?",
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
+			16,
+			236,
+			64
+		],
+		"uniqueName": "Privateers Of Algiers",
+  "uniques": ["Gain gold for each unit killed","Melee naval units have a 1/3 chance to capture defeated naval units","+25% bonus vs Barbarians"],
+		"cities": [
+			"Algiers",
+			"Oran",
+			"Bou Saada",
+			"Constantine",
+			"Béjaïa",
+			"Setif",
+			"Biskra",
+			"Annaba",
+			"Djelfa",
+			"M'Sila",
+			"Laghouat",
+			"Tiaret",
+			"Mecharia",
+			"Sidi bel Abbès",
+			"Tizi Ouzou",
+			"Bordj Bou Arredj",
+			"Jijel",
+			"Skikda",
+			"Souk Ahras",
+			"Khenchala",
+			"Tebessa",
+			"Aïn Oussera",
+			"El Bayadh",
+			"Ouargla",
+			"El Oued",
+			"Hassi Messaoud",
+			"El Borma",
+			"Aïn Sefra",
+			"Mostaganem",
+			"Chlef",
+			"Médéa",
+			"Ghardaïa",
+			"El Kala",
+			"El Guerrara",
+			"In Salah",
+			"Tamanrasset",
+			"Tindouf",
+			"Djamaa"
+		]			
+	},
+
+ {
+
+		"name": "Sultanate of Malacca",
+
+		"leaderName": "Parameswara",
+		"adjective": [
+			"Malaccan"
+		],
+		"startBias": [
+			"Coast"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "Our ships will destroy you!",
+		"attacked": "The great sultanate never falls.",
+		"defeated": "We will be liberated by our allies soon, you will never dominate our people.",
+		"introduction": "Welcome to the Sultanate of Malacca, we always seek allies and partners, maybe you can join?",
+		"neutralHello": "Greetings!",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "What?",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"My army never surrender."
+		],
+		"tradeRequest": "May we cooperate?",
+		"outerColor": [
+			74,
+			25,
+			231
+		],
+		"innerColor": [
+			255,
+			128,
+			0
+		],
+		"uniqueName": "Sulalatus Salatin",
+  "uniques": ["+1 happiness from each luxury resource","[Great Merchant] is earned [10]% faster","Provides a sum of gold each time you spend a Great Person"],
+		"cities": [
+			"Malacca",
+			"Pahang",
+			"Selangor",
+			"Trengganu",
+			"Pattani",
+			"Singora",
+			"Pedah",
+			"Penang",
+			"Pemasek",
+			"Rokan",
+			"Silak Sri Indrapura",
+			"Rengat",
+			"Indragiri",
+			"Rau",
+			"Tanjung Pinang",
+			"Jambi",
+			"Aru",
+			"Peureulak",
+			"Palembang",
+			"Bangkulu",
+			"Tulangbawang",
+			"Siantan",
+			"Klang",
+			"Siak Kampar"
+		]			
+	},
+
+ {
+
+		"name": "Czechia",
+
+		"leaderName": "Vaclav Havel",
+
+		"adjective": [
+
+			"Czechian"
+
+		],
+
+		"startBias": [
+
+			"Grassland"
+
+		],
+
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": ".",
+
+		"startIntroPart2": "",
+		"declaringWar": "We will enlighten your people to your tyranny, even if we have to use violence.",
+		"attacked": "Your lies and threats will not control my people.",
+		"defeated": "Truth and love overcomes lies and hatred. You are doomed to fall",
+		"introduction": "Welcome to the Czech Republic, we strive for freedom and happiness of our people.",
+		"neutralHello": "Great day.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "I have got enough of you!",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"May peace last forever."
+		],
+		"tradeRequest": "This is great for you, trust me.",
+		"outerColor": [
+			236,
+			100,
+			100
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "Truth Prevails",
+  "uniques": ["[+1 Production] from every specialist", "[+1 Science] from every specialist", "[+1 Gold] from every specialist"],
+		"cities": [
+			"Prague",
+			"Brno",
+			"Usti nad Labem",
+			"Liberec",
+			"Pilsen",
+			"Pardubice",
+			"Ostrava",
+			"Ceske Budejovice",
+			"Cesky Krumlov",
+			"Zlin",
+			"Hradec Kralove",
+			"Karlovy Vary",
+			"Olomouc",
+			"Pisek",
+			"Teplice",
+			"Rokycany",
+			"Most",
+			"Příbram",
+			"Klatovy",
+			"Strakonice",
+			"Tabor",
+			"Zihlava",
+			"Blansko",
+			"Vyskov",
+			"Znojmo",
+			"Lednice",
+			"Krnov",
+			"Hodonín",
+			"Cheb",
+			"Litomerice",
+			"Mlada Boleslav",
+			"Poděbrady",
+			"Šumperk",
+			"Jecenik",
+			"Vranice",
+			"Prerov",
+			"Kroměříž",
+			"Mikulov"
+		]			
+	},
+
+ {
+
+		"name": "Swahili",
+
+		"leaderName": "Ali ibn al-Hassan",
+
+		"adjective": [
+
+			"Swahili"
+
+		],
+
+		"startBias": [
+
+			"Coast"
+
+		],
+		
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "We must go to war, you are an obstacle to me.",
+		"attacked": "Our army is long ready.",
+		"defeated": "Treat my people like your own, goodbye.",
+		"introduction": "Welcome to the land of the shore people.",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "You're annoying.",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"Very good, both of us has lost too much."
+		],
+		"tradeRequest": "Shall we trade?",
+		"outerColor": [
+			255,
+			252,
+			7
+		],
+		"innerColor": [
+			7,
+			255,
+			250
+		], 
+  "uniqueName": "Coral Construction",
+  "uniques": ["[+2 Production] from every [Fishing Boats]","[+2 Gold] from every [Fishing Boats]","[+2 Food] from every [Fishing Boats]"],
+		"cities": [
+			"Dar es Salaam",
+			"Zanzibar",
+			"Tanga",
+			"Kilidoni",
+			"Mombasa",
+			"Nungwi",
+			"Bungu",
+			"Kilwa Masoko",
+			"Lindi",
+			"Mtwara",
+			"Pangani",
+			"Konde",
+			"Chake Chake",
+			"Mvomero",
+			"Kwa",
+			"Somanga",
+			"Kilfi",
+			"Kiwengwa",
+			"Paje",
+			"Saadani",
+			"Zinga",
+			"Fumba",
+			"Shungubweni",
+			"Kisiju",
+			"Magawa",
+			"Kikale"
+		]			
+	},
+ {
+
+		"name": "Liberia",
+
+		"leaderName": "Joseph Jenkins Robert",
+		"adjective": [
+			"Liberian"
+		],
+		"startBias": [
+			"Coast","Jungle"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "You are too weak to defend yourself. Allow me to show you why.",
+		"attacked": "You have fallen right into our trap.",
+		"defeated": "I have made many mistakes, meeting you is one of them.",
+		"introduction": "This is Liberia, land of the freed men. What about you ?",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "What?",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"Let us part our ways."
+		],
+		"tradeRequest": "May i propose this offer?",
+		"outerColor": [
+			208,
+			55,
+			55
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+  "uniqueName": "American Colonization Society", 
+  "uniques": ["+[15]% [Food] from every [Market]","Receive free [Settler] when you discover [Optics]","Receive free [Worker] when you discover [Optics]","Receive free [Minuteman] when you discover [Optics]"],
+		"cities": [
+			"Monrovia",
+			"Kakata",
+			"Paynesville",
+			"Bensonville",
+			"Harbel",
+			"Buchanan",
+			"Weala",
+			"Totota",
+			"Nigiya",
+			"Gbarnga",
+			"Ganta",
+			"Gardee",
+			"Diabli",
+			"Kuma Town",
+			"Kateville",
+			"Greenville",
+			"Soboe",
+			"Sasstown",
+			"Barclayville",
+			"Zwedru",
+			"Fishtown",
+			"Brogui",
+			"Tapeta",
+			"Mhelna",
+			"Boponui",
+			"Brokee",
+			"Zeema",
+			"Beteba",
+			"Zorzor",
+			"Voinjama"
+		]			
+	},
+
+ {
+
+		"name": "Serbia",
+
+		"leaderName": "Peter I Karajordjevic",
+		"adjective": [
+			"Serbian"
+		],
+		"startBias": [
+			"Hill"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "If God wanted you to exist, he would not have created me!",
+		"attacked": "We will destroy your army, the Serbian people will resist!",
+		"defeated": "The Serbian people will rise again.",
+		"introduction": "Welcome to Serbia. May i know who you are?",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "Hmm?",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"Very good."
+		],
+		"tradeRequest": "This will benefis both of us.",
+		"outerColor": [
+			255,
+			70,
+			57
+		],
+		"innerColor": [
+			48,
+			70,
+			193
+		],
+  "uniqueName": "July Crisis",
+  "uniques": ["+[15]% Production when constructing [military units]", "New military units start with [15] Experience","[+1 Production] per [3] population in all cities"],
+		"cities": [
+			"Belgrade",
+			"Niš",
+			"Novi Sad",
+			"Krujevac",
+			"Smederevo",
+			"Šabac",
+			"Zrenjanin",
+			"Subotica",
+			"Kruševac",
+			"Leskovac",
+			"Novi Pazar",
+			"Ruma",
+			"Becej",
+			"Anđrelovac",
+			"Valjevo",
+			"Užice",
+			"Požega",
+			"Sjenica",
+			"Priejepolje",
+			"Vrnjačka Banja",
+			"Jagodina",
+			"Požarevac",
+			"Bor",
+			"Negotin",
+			"Zaječar",
+			"Aleksinac",
+			"Inovo",
+			"Vlasotine",
+			"Vranje",
+			"Presevo",
+			"Janta",
+			"Kikinda",
+			"Sombor",
+			"Loznica",
+			"Teten",
+			"Banatsko Novo Selo",
+			"Alikona",
+			"Bela Crkva"
+		]			
+	}, 
+ {
+
+		"name": "Iceland",
+
+		"leaderName": "Ingolfur Arnarson",
+
+		"adjective": [
+
+			"Icelanders"
+
+		],
+
+		"startBias": [
+
+			"Tundra"
+
+		],
+
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "The Icelandic people have got enough of your treachery!",
+		"attacked": "Icelanders will never fall",
+		"defeated": "Our humble people now have a new ruler.Please, take care of them for me.",
+		"introduction": "Welcome to Iceland! I humbly invite you to my hut, we have a lot to discuss.",
+		"neutralHello": "How are you?",
+		"neutralLetsHearIt": [
+			".",
+			".",
+			"."
+		],
+		"neutralNo": [
+			".",
+			"",
+			""
+		],
+		"neutralYes": [
+			".",
+			"",
+			""
+		],
+		"hateHello": "Yes,hello.",
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"No men benefits from war."
+		],
+		"tradeRequest": "We present you with this deal. It is not much but we hope you accept.",   
+  "uniqueName": "Saga Of The Icelanders",
+  "uniques": ["[+1 Culture] from every [Trading post]","[+2 Culture] from every [Plantation]","[+2 Culture] from every [Camp]","[+2 Culture] from every [Quarry]","[+1 Culture] from every [Mine]"],
+		"outerColor": [
+			0,
+			0,
+			255
+		],
+		"innerColor": [
+			232,
+			255,
+			0
+		],
+		"cities": [
+			"Reyjavik",
+			"Hafnafjordur",
+			"Reykjanesbaer",
+			"Vik",
+			"Kirkjubaejarklauster",
+			"Hofn",
+			"Djupivogur",
+			"Faskrudfjordur",
+			"Reydarfjordur",
+			"Seygisfjordur",
+			"Egilsstadir",
+			"Borgarfjordur Eystri",
+			"Husavik",
+			"Laugar",
+			"Dalvik",
+			"Akureyri",
+			"Reykjahlid",
+			"Saudarkrokur",
+			"Blondous",
+			"Isafjordur",
+			"Bildudalur",
+			"Patreksfjordur",
+			"Olafsvik",
+			"Hellnar",
+			"Borgarnes",
+			"Selfloss",
+			"Hella",
+			"Hof",
+			"Hoffel",
+			"Vopnafjordur",
+			"Kopavster",
+			"Hvammtangi",
+			"Arneshreppur",
+			"Reykholar",
+			"Reykholt"
+		]			
+	}, 
+ {
+
+		"name": "Phillipines",
+
+		"leaderName": "Jose Rizal",
+
+		"adjective": [
+
+			"Filipinos"
+
+		],
+
+		"startBias": [
+
+			"Coast"
+
+		],
+
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": ".",
+
+		"startIntroPart2": "",
+
+ 		"declaringWar": "We cannot let you keep meddling with us, we must declare war. I must still apologise.",
+
+		"attacked": "We shall protect every single piece of land.",
+
+		"defeated": "May our people rise again.",
+
+		"introduction": "Welcome to the Phillipines, we wish to have peace.",
+
+		"neutralHello": "Great day.",
+
+		"neutralLetsHearIt": [
+
+			".",
+
+			".",
+
+			"."
+
+l		],
+
+		"neutralNo": [
+
+			".",
+
+			"",
+
+			""
+
+		],
+
+		"neutralYes": [
+
+			".",
+
+			"",
+
+			""
+
+		],
+
+ 		"hateHello": "Welcome, i'm still up for negotiations.",
+
+		"hateLetsHearIt": [
+			"!",
+			"",
+			"!"
+		],
+		"hateNo": [
+			"",
+			"",
+			""
+		],
+		"hateYes": [
+			"!",
+			"",
+			""
+		],
+		"afterPeace": [
+			"I hope this peace last for long."
+		],
+		"tradeRequest": "I believe this is in out best interest",
+		"outerColor": [
+			0,
+			92,
+			255
+		],
+		"innerColor": [
+			255,
+			136,
+			0
+		],
+		"cities": [
+			"Manila",
+			"Batangas",
+			"Quezon City",
+			"Cabanatuan City",
+			"Santiago",
+			"Tuguegarao",
+			"Laoag City",
+			"Dagupan",
+			"Naga",
+			"Legazpi City",
+			"Luzon",
+			"Masbate City",
+			"Calbayog City",
+			"Tacloban City",
+			"Surigao City",
+			"Catagan De Oro",
+			"Butuan City",
+			"Iligan City",
+			"Cobatanyo City",
+			"Pagadian City",
+			"Puerto Princessa",
+			"Zamboanga City",
+			"General Santos City",
+			"Bacolod",
+			"Cebu",
+			"Iloilo",
+			"Vigan",
+			"Bohol"
+		]			
+	}, 
+	{
+		"name": "Vietnam",
+		"leaderName": Ho Chi Minh,
+		"adjective": ["Vietnamese"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		
+		"declaringWar": "You might be a threat later,so we will take you out now.",
+		"attacked": "Many Empires have failed to take us over,You can try but you will fail.",
+		"defeated": "Please rule over my people for me,for i have failed them.",
+		"introduction": "Hello there,I am Ho Chi Minh and the leader of Vietnam.",
+		"neutralHello": "Oh,hey there",
+		"neutralLetsHearIt": [
+			"?",
+			" Is there anything you need?",
+			"Tell me what you want"
+		],
+		"neutralNo": [
+			"Sorry,no",
+			"We cannot accept",
+			"No"
+		],
+		"neutralYes": [
+			"That is good",
+			"Sure",
+			"Okay"
+		],
+		"hateHello": "Why are you here",
+		"hateLetsHearIt": [
+			"What did you say?",
+			"Hmmm?",
+			"Talk!"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"Never!",
+			"No"
+		],
+		"hateYes": [
+			"Whatever.",
+			"If it benefits us then sure.",
+			"Well then,i guess this is good enough."
+		],
+		"afterPeace": [
+			"I hope this never happen agains."
+		],
+		"tradeRequest": "I have a deal here,what do you think?",
+		"outerColor": [
+			153,
+			5,
+			3
+		],
+		"innerColor": [
+			244,
+			232,
+			54
+		],
+  "uniqueName": "Vietnamese Nationalism",
+  "uniques": ["[+3 Culture] in capital","+15% growth in all cities","Gain gold for each unit killed"],
+		"cities": ["Hanoi","Ha Long","Tay Ho","Tien Trang","Ho Chi Minh City","Hoi An","Vinh","Phnom Penh","Vinh Phuc",
+			"Cao Bang","Hai Phong",
+			"Dien Bien Phu",
+			"Ninh Binh",
+			"Thanh Hoa",
+			"Lao Cai",
+			"Ha Giang",
+			"Ha Tinh",
+			"Dong Hoi",
+			"Hue",
+			"Da Nang",
+			"Quang Ngai",
+			"Pleiku",
+			"Buon Ma Thout",
+			"Nha Trang",
+			"Da Lat",
+			"Phan Thiet",
+			"Tay Ninh",
+			"Ba Be",
+			"Can Tho",
+			"Tay Ninh",
+			"Bac Lieu",
+			"Tuy Hoa",
+			"Dong Hoa",
+			"Cam Pha",
+			"Bac Giang",
+			"Bac Ninh",
+			"Cam Pha",
+			"Mong Cai",
+			"Nam Dinh",
+			"Sam Son",
+			"Yen Lap"]
+	},
+ {
+		"name": "Yugoslavia",
+		"leaderName": Josip Broz Tito,
+		"adjective": ["Yugoslavs"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "nah",
+		"startIntroPart2": "not creative enough",
+		
+		"declaringWar": "We can no longer stay neutral,you reign must end.",
+		"attacked": "We tried to stay peaceful,you know.",
+		"defeated": "Well i knew this day would come.",
+		"introduction": "I am Josip Broz Tito of Yugoslavia,if you are a friend then i guranteed to you that i will not attack,but i will not let any oppose me.",
+		"neutralHello": "Hi!",
+		"neutralLetsHearIt": [
+			"Go on!",
+			"Hey.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"No!",
+			"Nah",
+			"Maybe no"
+		],
+		"neutralYes": [
+			"Okay!",
+			"Sounds good to me",
+			"Yes"
+		],
+		"hateHello": "Say what you want and get out!",
+		"hateLetsHearIt": [
+			"Hmm?",
+			"I am listening",
+			"Go on!"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"I see no benifit for my nation",
+			"Unbelieveable!"
+		],
+		"hateYes": [
+			"Okay",
+			"Good enough.",
+			"Yes,yes."
+		],
+		"afterPeace": [
+			"Are we good now?."
+		],
+		"tradeRequest": "Hello,i got something here you might like",
+		"outerColor": [
+			0,
+			0,
+			255
+		],
+		"innerColor": [
+			255,
+			0,
+			0
+		],
+		"cities": ["Belgrade","Zagreb","Zadar","Split","Sarejavo","Podgorica","Novi Sad","Nis","Săbac",
+			"Leskovac","Skopje",
+			"Prizen",
+			"Tuzla",
+			"Mostar",
+			"Slavonski",
+			"Osijiek",
+			"Maribor",
+			"Trieste",
+			"Rijeka",
+			"Peja",
+			"Pristina",
+			"Zabijak",
+			"Peja",
+			"Visegrad",
+			"Ojinika",
+			"Konijik",
+			"Knin",
+			"Jadar",
+			"Starigrad",
+			"Pula",
+			"Llubjiana",
+			"Kamnik",
+			"Maribor",
+			"Bitola",
+			"Cacak",
+			"Subotica",
+			"Dakovo",
+			"Kutina",
+			"Sisak",
+			"Săkva",
+			"Arekajo"]
+	},
+ {
+		"name": "Belgium",
+		"leaderName": Leopold I,
+		"adjective": ["Belgian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "nah",
+		"startIntroPart2": "not creative enough",
+		
+		"declaringWar": "Your people is living under a weak ruler,let me fix that problem..",
+		"attacked": "You are not welcomed in our land,prepare to face our army.",
+		"defeated": "Rule over my people and make them happy,or else we will rise again.",
+		"introduction": "The Belgian people welcome you!Would you like some sprouts and waffles?",
+		"neutralHello": "Hi!",
+		"neutralLetsHearIt": [
+			"Go on!",
+			"What is it?.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"No!",
+			"Nah",
+			"No."
+		],
+		"neutralYes": [
+			"Okay!",
+			"Sounds good to me",
+			"Yes"
+		],
+		"hateHello": "What are you doing here!",
+		"hateLetsHearIt": [
+			"Hmm?",
+			"I am listening",
+			"What?"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"What?!",
+			"I hope you are joking"
+		],
+		"hateYes": [
+			"Okay",
+			"Good enough.",
+			"Sure."
+		],
+		"afterPeace": [
+			"We can still be friends after this,can we?."
+		],
+		"tradeRequest": "Hello dear friend!I have a great deal here.",
+		"outerColor": [
+			127,
+			0,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			0
+		], 
+  "uniqueName": "European Economic Community",
+  "uniques": ["[+2 Gold] from all [Gold] buildings","[+3 Science] from each Trade Route","Double quantity of [Aluminium] produced"],
+		"cities": ["Brussels","Antwerp","Charleroi","Liège","Ghent","Bruges","Ostend","Gank","Hasselt",
+			"Huy","Spa",
+			"Bastogne",
+			"Rochefort",
+			"Armund",
+			"Namur",
+			"Vlissingen",
+			"Leugen",
+			"Mont",
+			"Rijeka",
+			"De Panne",
+			"Kortrijk",
+			"Knokke-Heist",
+			"Arlon",
+			"Malmedt",
+			"Wavre",
+			"Ochenen",
+			"Knin",
+			"Mor",
+			"Liltllie",
+			"Turnhout",
+			"Hootstraten",
+			"Essen",
+			"Eeklo",
+			"Damme",
+			"De Pann",
+			"Ypres",
+			"Tornai",
+			"Kutina",
+			"Dakovo",
+			"Aht",
+			"Dor"]
+ },
+ {
+		"name": "Canada",
+		"leaderName": Mackenzie King,
+		"adjective": ["Canadian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "nah",
+		"startIntroPart2": "not creative enough",
+		
+		"declaringWar": "We can no longer maintain this peace,i declare war.",
+		"attacked": "All Citizens in arms!.",
+		"defeated": "I have no other choice,i guess.Hope you can maintain this beautiful land.",
+		"introduction": "The people of Canada sincerely greets you,hope we can get along.",
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": [
+			"What is it?",
+			"Ah yes,what is it.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"No!",
+			"Nah",
+			"I refuse"
+		],
+		"neutralYes": [
+			"We accept",
+			"Sounds good to me",
+			"Yes"
+		],
+		"hateHello": "What is it that you want?!",
+		"hateLetsHearIt": [
+			"Hmm?",
+			"Say what you want",
+			"What?"
+		],
+		"hateNo": [
+			"A bad deal,i have to say",
+			"Rude.",
+			"I will not agree to this"
+		],
+		"hateYes": [
+			"Yes",
+			"Not bad.",
+			"Accepted."
+		],
+		"afterPeace": [
+			"I am glad."
+		],
+		"tradeRequest": "Canada have some great resources,perhaps some may be good for you?",
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
+			255,
+			0,
+			0
+		],
+		"cities": ["Ottawa","Toronto","Quebec City","Edmonton","Detroit","Winnipeg","Montreal","St John's","Vancouver",
+			"Regina","Labrador City",
+			"Kuujiaq",
+			"Fermont",
+			"Fort Mackenzie",
+			"Happy Valley-Goose Bay",
+			"Rocky Harbor",
+			"Deerlake",
+			"Baker Lake",
+			"Salluit",
+			"Rankin Inlet",
+			"Sudbury",
+			"Grand Rapid",
+			"Regina",
+			"Calgary",
+			"Victoria",
+			"Whitehorse",
+			"Yellowknife",
+			"Fort McMurray",
+			"Iqualuit",
+			"Saguenay",
+			"Anticoti",
+			"Cape Breton",
+			"Princes Bay",
+			"Moncton",
+			"Frederickton",
+			"Sherbrook",
+			"Eastmain",
+			"Wimin",
+			"Port Nelson",
+			"Prince Albert",
+			"Yorkton"]
+	},
+ {
+		"name": "Italy",
+		"leaderName": Victor Emmanuel II",
+		"adjective": ["Italian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "nah",
+		"startIntroPart2": "not creative enough",
+		
+		"declaringWar": "We declare war on you,Italy need your resources for our great plan.",
+		"attacked": "Our land is not up for grab,you should know that before you underestimate us.",
+		"defeated": "So many years of progress and unification,just for it to end like this?No,no!.",
+		"introduction": "Salutation,I am King Victor Emmanuel,the king of the young Italian kingdom",
+		"neutralHello": "Salutation!",
+		"neutralLetsHearIt": [
+			"Yes?",
+			"I am hearing.",
+			"What?"
+		],
+		"neutralNo": [
+			"No.",
+			"I must refuse",
+			"I refuse."
+		],
+		"neutralYes": [
+			"Ok",
+			"Very good",
+			"Yes."
+		],
+		"hateHello": "...",
+		"hateLetsHearIt": [
+			"Say it.",
+			"What do you want?",
+			"Hmm?"
+		],
+		"hateNo": [
+			"No",
+			"Arrogant",
+			"Never"
+		],
+		"hateYes": [
+			"Good",
+			"Good enough.",
+			"Accepted."
+		],
+		"afterPeace": [
+			"Well,i have a lot of things to do after this war."
+		],
+		"tradeRequest": "My traders are coming with my offers,treat them well.",
+		"outerColor": [
+			220,
+			20,
+			60
+		],
+		"innerColor": [
+			107,
+			142,
+			35
+		],
+  "uniqueName": "Roman Legacy",
+  "uniques": ["Receive free [Great Artist] when you discover [Civil Service]","+[30]% Production when constructing [Culture] buildings","[+4 Science] from all [Culture] buildings"],
+		"cities": ["Rome","Florence","Pisa","Bologna","Naples","Verona","Vadua","Genoa","Turin",
+			"Bari","Matera",
+			"Pompei",
+			"Lecce",
+			"Taranto",
+			"Taormina",
+			"Palermo",
+  		"Reggio Calabria",
+			"Catania",
+			"Syracuse",
+			"Trapani",
+			"Marsala",
+			"Arezzo",
+			"Turni",
+			"Latina",
+			"Chieti",
+			"Vasto",
+			"Ancona",
+			"Rimini",
+			"Ravenna",
+			"Modena",
+			"Parma",
+			"Rivorno",
+			"La Spieza",
+			"Savona",
+			"Asti",
+			"Udina",
+			"Trieste",
+			"Treviso",
+			"Marsala del Vallo",
+			"Gallipoli",
+			"Otranto"]
+ },
+ {
+		"name": "Prussia",
+		"leaderName": Wilhelm I",
+		"adjective": ["Prussian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		
+		"declaringWar": "You are an obstacle in our plan to unify Germany.",
+		"attacked": "Barbarian!Prussia will destroy you and your cowardly army!.",
+		"defeated": "Looks like the war did not went like i thought it will.",
+		"introduction": "Greetings.I am Wilhelm,King of Prussia and soon,The German Empire .",
+		"neutralHello": "Oh",
+		"neutralLetsHearIt": [
+			"What?",
+			"Hey.",
+			"What is it?"
+		],
+		"neutralNo": [
+			"I see no benifit",
+			"We cannot accept",
+			"Refused"
+		],
+		"neutralYes": [
+			"Great.",
+			"Quite generous of you,sure",
+			"Yes"
+		],
+		"hateHello": "...",
+		"hateLetsHearIt": [
+			"What did you say?",
+			"...",
+			"And?"
+		],
+		"hateNo": [
+			"Just get out",
+			"This is outrageous! ",
+			"What?!"
+		],
+		"hateYes": [
+			"Hmmm,good",
+			"We do need this",
+			"Good"
+		],
+		"afterPeace": [
+			"You did good,i underestimated you."
+		],
+		"tradeRequest": "We have some resources we can sell away here,do they look appealing?",
+		"outerColor": [
+			0,
+			139,
+			139
+		],
+		"innerColor": [
+			224,
+			255,
+			255
+		],
+		"cities": ["Berlin","Dresden","Potsdam","Rostock","Sczecin","Magdeburg","Wolfsburg","Lübeck","Hamburg",
+			"Kiel","Frankfurt",
+			"Cologne",
+			"Dortmund",
+			"Brunswick",
+			"Hanover",
+			"Bremen",
+			"Danzig",
+			"Cortbus",
+			"Slupsk",
+			"Kotzalin",
+			"Miedzyroze",
+			"Pleiku",
+			"Zielona Gora",
+			"Waren",
+			"Franfurt an der Order",
+			"Schwerin",
+			"Luneberg",
+			"Holsum",
+			"Wilhelmshaven",
+			"Cuxhavens",
+			"Leer",
+			"Osnabruck",
+			"Holmen",
+			"Bielefield",
+			"Panderborns",
+			"Celle",
+			"Fehman",
+			"Bucholz in der Nordheide",
+			"Itzeho",
+			"Soltau",
+			"Verden"]
+	},
+ {
+		"name": "Switzerland",
+		"leaderName": Edmund Schulthess,
+		"adjective": ["Swiss"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "nah",
+		"startIntroPart2": "not creative enough",
+		
+		"declaringWar": "This fragile peace can no longer last!.",
+		"attacked": "You will never win,your army will not cross the mountains!.",
+		"defeated": "It was nice being neutral but this got to come at some point didnt it?.",
+		"introduction": "Switzerland welcomes you but never your army.",
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": [
+			"What is it?",
+			"What can i do for you?.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"Not enough.",
+			"Im afraid this will not do.",
+			"I refuse"
+		],
+		"neutralYes": [
+			"Great deal,i accept",
+			"Sounds good to me",
+			"This looks good"
+		],
+		"hateHello": "What?",
+		"hateLetsHearIt": [
+			"I have other things to do",
+			"This is taking time",
+			"What?"
+		],
+		"hateNo": [
+			"A bad deal,i have to say",
+			"Switzerland does not need this",
+			"I will not agree to this"
+		],
+		"hateYes": [
+			"Yes",
+			"Not bad.",
+			"Accepted."
+		],
+		"afterPeace": [
+			"You fought hard,i salute you for that."
+		],
+		"tradeRequest": "Our trade delegation have came with our request,perhaps some cheese can pursue you to accept?",
+		"outerColor": [
+			255,
+			0,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"cities": ["Zurich","Bern","Lausanne","Lucern","Basel","Zermatt","Thunn","Biel","Frouborg",
+			"Montreauz","Zeon",
+			"Interlaken",
+			"Inderough",
+			"Grindewald",
+			"Zut",
+			"Engelberg",
+			"Lauterbrunnen",
+			"Chur",
+			"Saint Gallen",
+			"Winterthur",
+			"Sttrathauten",
+			"Neuchâtel",
+			"Yverdon-les-Bains",
+			"Lucarno",
+			"Bellizona",
+			"St Moritz",
+			"Davos",
+			"Bad Ragaz",
+			"Lugano",
+			"Adorf",
+			"Grat",
+			"Stein am grein",
+			"Seuzach",
+			"Lang Raden",
+			"Bargen",
+			"Lagern",
+			"Baden",
+			"Dietekon",
+			"Arron",
+			"Argen",
+			"Lagenthau"]
+	},
+ {
+		"name": "Finland",
+		"leaderName": Kyosti Kallio,
+		"adjective": ["Finnish"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		
+		"declaringWar": "I cannot ensure that you will be on my side forever,for your behavior is too agressive.",
+		"attacked": "You weak army will die in the cold,this will be an easy war.",
+		"defeated": "I didnt expect you to survive the cold winter,looks like you got some experience too.",
+		"introduction": "The Finnish people welcome you as long as you stay as our friend.",
+		"neutralHello": "Ah,yes,what is it?",
+		"neutralLetsHearIt": [
+			"What do you need?",
+			"Is there anything you need?",
+			"Tell me what you want"
+		],
+		"neutralNo": [
+			"Not that.",
+			"We dont need that right now",
+			"No"
+		],
+		"neutralYes": [
+			"Accepted",
+			"Well,a great deal",
+			"We graciously accept"
+		],
+		"hateHello": "You...",
+		"hateLetsHearIt": [
+			"What do you want?",
+			".",
+			"I have things to do!"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"Never!",
+			"What?!"
+		],
+		"hateYes": [
+			"Whatever.",
+			"I accept this trade.",
+			"We do need this."
+		],
+		"afterPeace": [
+			"I do not want this to happen again,do you?."
+		],
+		"tradeRequest": "We have some resources we do not need,maybe you do?",
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
+			0,
+			191,
+			255
+		], 
+  "uniqueName": "Winter War",
+  "uniques": ["+50% attacking strength for cities with garrisoned units","Wounded military units deal +25% damage"],
+		"cities": ["Helsinki","Turku","Tampere","Novorus","Laki","Louprota","Lappeenrranta","Pori","Vaasa",
+			"Jyvaskylä","Joensuu",
+			"Joensuu",
+			"Oulu",
+			"Kemi",
+			"Haparanda",
+			"Sirka",
+			"Rovaniemi",
+			"Inari",
+			"Sariselkka",
+			"Kuusamo",
+			"Taivakostki",
+			"Vyborg",
+			"Porvoo",
+			"Kotska",
+			"Jamsa",
+			"Janakkala",
+			"Orilemmsi",
+			"Loira",
+			"Eura",
+			"Laumaa",
+			"Sassalama",
+			"Kurikka",
+			"Alut",
+			"Lapua",
+			"Vimpeli",
+			"Kurrkonummi",
+			"Vaseala",
+			"Kangasala",
+			"Muurame",
+			"Varkauss",
+			"Aus"]
+	},
+ {
+		"name": "Soviet Union",
+		"leaderName": Vladimir Lenin,
+		"adjective": ["Soviets"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "nah",
+		"startIntroPart2": "not creative enough",
+		
+		"declaringWar": "The Soviet Union cannot let you attack first.",
+		"attacked": "Your blood will freeze in the Russian blizzard.",
+		"defeated": "You have not won yet,you never will.",
+		"introduction": "Greetings,the Soviet Union welcomes all to it,as long as you are not a capitalist",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			"Yes?",
+			"Hey.",
+			"scribble"
+		],
+		"neutralNo": [
+			"No.",
+			"Not now.",
+			"Maybe no"
+		],
+		"neutralYes": [
+			"Okay.",
+			"Sounds good to me",
+			"Yes"
+		],
+		"hateLetsHearIt": [
+			"Hmm?",
+			"I am listening",
+			"Go on!"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"What?!",
+			"Unbelieveable!"
+		],
+		"hateYes": [
+			"Okay",
+			"Good enough.",
+			"Yes"
+		],
+		"afterPeace": [
+			"Well,its done."
+		],
+		"tradeRequest": "Would you be interested in some of our resources?Not made with capitalism,of course.",
+		"outerColor": [
+			220,
+			20,
+			60
+		],
+		"innerColor": [
+			255,
+			215,
+			0
+		],
+   "uniqueName": "Great Patriotic War",                                         "uniques": ["+15% combat strength for units fighting in friendly territory ","[+2 Happiness, +1 Culture] in all cities with a garrison"],
+		"cities": ["Moscow","Leningrad","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Volgograd", 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara", 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm", 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Sudzal","Magnitogorsk"]
+	},
+ {
+		"name": "Hellenic Republic",
+		"leaderName": Alexandros Papagos,
+		"adjective": ["Greek"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		
+		"declaringWar": "We will make this swift.",
+		"attacked": "Even if you defeat us,the people shall resist!.",
+		"defeated": "This is not where it end,the people will not surrender.",
+		"introduction": "Welcome to Greece,a land with great architecture and history,you can come by for a rest sometimes..",
+		"neutralHello": "Ah,hello,my friend",
+		"neutralLetsHearIt": [
+			"?",
+			"We do have some stuff to trade",
+			"Yes?"
+		],
+		"neutralNo": [
+			"Sorry,no",
+			"I am sorry.",
+			"We cannot accept this deal."
+		],
+		"neutralYes": [
+			"Looks great",
+			"Sure",
+			"Okay"
+		],
+		"hateHello": "You are not welcomed",
+		"hateLetsHearIt": [
+			"What did you say?",
+			"Hmmm?",
+			"..."
+		],
+		"hateNo": [
+			"...",
+			"...",
+			"..."
+		],
+		"hateYes": [
+			"Whatever.",
+			"Good.",
+			"Eh."
+		],
+		"afterPeace": [
+			"That was...not great."
+		],
+		"tradeRequest": "The people of Greece offer you some stuff,do they look good?",
+		"outerColor": [
+			0,
+			206,
+			209
+		],
+		"innerColor": [
+			224,
+			255,
+			255
+		],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes", 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios", 			"Paros","Ellis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon", 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis", 			"Patras","Lamia","Nafplion","Apolyton"]
+	},
+ {
+		"name": "Austria-Hungary",
+		"leaderName":  Franz Joseph I,
+		"adjective": ["Austro-Hungarian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		
+		"declaringWar": "We will be at our greatest extent when you're out!.",
+		"attacked": "Indivisibly and Inseperably!.",
+		"defeated": "Finally,it has ended....",
+		"introduction": "Ah,Hello!The Austro-Hungarian Empire is in need of allies,would you be interested?",
+		"neutralHello": "Ah yes,what is it?",
+		"neutralLetsHearIt": [
+			"What do you need?",
+			"Is there anything you need?",
+			"Tell me what you want"
+		],
+		"neutralNo": [
+			"Not that.",
+			"We dont need that right now",
+			"No"
+		],
+		"neutralYes": [
+			"Accepted",
+			"Well,a great deal",
+			"We graciously accept"
+		],
+		"hateHello": "We do not need you here.",
+		"hateLetsHearIt": [
+			"What do you want?",
+			".",
+			"I have things to do!"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"Never!",
+			"What?!"
+		],
+		"hateYes": [
+			"Whatever.",
+			"I accept this trade.",
+			"We do need this."
+		],
+		"afterPeace": [
+			"I do not want this to happen again,do you?."
+		],
+		"tradeRequest": "Will you accept this trade,it's fair and equal,like how we treat our subjects,probably.",
+		"outerColor": [
+			178,
+			34,
+			34
+		],
+		"innerColor": [
+			85,
+			107,
+			47
+		],
+  "uniqueName": "Double Monarchy",
+  "uniques": ["Unhappiness from population decreased by [10]%","[+2 Food] in all cities","[+2 Production] in all cities"],
+		"cities": ["Vienna","Graz","Salzburg","Linns","Laki","Innsbruck","Budapest","Saint Pölten","Szombathely",
+			"Sopron","Tyrvana",
+			"Brno",
+			"Ceske Budejovice",
+			"Villach",
+			"Udine",
+			"Trieste",
+			"Pula",
+			"Zlin",
+			"Nitra",
+			"Kuusamo",
+			"Maribor",
+			"Riseszka",
+			"Varazdin",
+			"Rijeka",
+			"Zadar",
+			"Split",
+			"Prague",
+			"Pecs",
+			"Baja",
+			"Steyr",
+			"Vác",
+			"Subotica",
+			"Novi Sad",
+			"Sarejavo",
+			"Satu Mare",
+			"Nis",
+			"Podgorica",
+			"Timisoara",
+			"Cluj Napoca",
+			"Olomouc",
+			"Margaretten"]
+	},
+ {
+		"name": "Qing Dynasty",
+		"leaderName":  Xuanye,
+		"adjective": ["Qing"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		
+		"declaringWar": "It would be better if your nation was ruled by the Mandate of Heaven and not some weakling,we will change that..",
+		"attacked": "The gods have put me in charge of this empire and they shall keep me here!",
+		"defeated": "We are forbidden by the gods,what have i done to anger them?.",
+		"introduction": "Bow down,you are in front of the one chosen by the gods.Are you also destined to be one?",
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": [
+			"What is it?",
+			"What do you want?",
+			"..."
+		],
+		"neutralNo": [
+			"Not that.",
+			"We dont need that right now",
+			"No"
+		],
+		"neutralYes": [
+			"Accepted",
+			"Well,a great deal",
+			"We graciously accept"
+		],
+		"hateHello": "You...",
+		"hateLetsHearIt": [
+			"What do you want?",
+			".",
+			"I have things to do!"
+		],
+		"hateNo": [
+			"Unacceptable!",
+			"Never!",
+			"What?!"
+		],
+		"hateYes": [
+			"Whatever.",
+			"I accept this trade.",
+			"We do need this."
+		],
+		"afterPeace": [
+			"Very good?."
+		],
+		"tradeRequest": "You will not reject this deal from me,will you?.",
+		"outerColor": [
+			255,
+			215,
+			0
+		],
+		"innerColor": [
+			0,
+			139,
+			139
+		],
+		"cities": ["Peking","Nanjing","Tianjin","Jinan","Baoding","Weifang","Yantai","Dalian","Harbin",
+			"Changchun","Yantai",
+			"Shanghai",
+			"Guangzhou",
+			"Wenzhou",
+			"Fuzhou",
+			"Hefei",
+			"Taipei",
+			"Xiamen",
+			"Nanning",
+			"Kunming",
+			"Chengdu",
+			"Lhasa",
+			"Xi'an",
+			"Wuhan",
+			"Changde",
+			"Chengdu",
+			"Chongqing",
+			"Urümqi",
+			"Hunlunbuur",
+			"Mataq",
+			"Ulaanbaatar",
+			"Khorgo",
+			"Uliastai",
+			"Hami",
+			"Jiuquan",
+			"Karamay",
+			"Ordos",
+			"Datong",
+			"Shijazhuang",
+			"Khorvo",
+			"Linfeng"]
+	},
+ {
+		"name": "Empire Of Japan",
+		"leaderName": "Emperor Meiji",
+		"adjective": [	"Japanese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		"declaringWar": "Our warehouses are starting to get empty.Tell me,how many resource are there in your storages?Actually,i will see it myself.",
+		"attacked": "Do you really think this is a good idea?",
+		"defeated": "Curse you,you barbarian!I will be back!",
+		"introduction": "Welcome to the Empire of Japan.Do not underestimate us because of our size,you will regret it.",
+		"neutralHello": "Yes?.",
+		"neutralLetsHearIt": [
+			"What is it?.",
+			"Hmmm?.",
+			"Is there amything you need?."
+		],
+		"neutralNo": [
+			"We cannot accept",
+			"Unacceptable.",
+			"This is not very benificial."
+		],
+		"neutralYes": [
+			"Great.",
+			"Seems good.",
+			"Yes."
+		],
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": [
+			"What?",
+			"Say what you want.",
+			"I am getting impatient"
+		],
+		"hateNo": [
+			"What?!",
+			"No!",
+			"This is no place for joking!"
+		],
+		"hateYes": [
+			"I must accept then",
+			"Good.",
+			"You're good"
+		],
+		"afterPeace": [
+			"Let's consider this a draw."
+		],
+		"tradeRequest": "My warehouses are getting empty,i do have spare goods though,maybe you can give me some of your's spare too?",
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
+			255,
+			0,
+			0
+		],
+		"cities": [
+			"Tokyo",
+			"Yokohama",
+			"Nagoya",
+			"Osaka",
+			"Niigata",
+			"Sendai",
+			"Matsuyama",
+			"Fukuouka",
+			"Hiroshima",
+			"Mayazaki",
+			"Kagoshima",
+			"Kumamoto",
+			"Sapporo",
+			"Asashikawa",
+			"Yuzhno",
+			"Kitari",
+			"Abashiri",
+			"Wakkahana",
+			"Chiba",
+			"Hammamoto",
+			"Alisu",
+			"Kanazawa",
+			"Toyama",
+			"Suyu",
+			"Suriyaki",
+			"Himeiji",
+			"Tomamata",
+			"Kobe",
+			"Muroto",
+			"Ozu",
+			"Shikoku",
+			"Hagi",
+			"Usa",
+			"Oito",
+			"Makiri",
+			"Hanajiwa",
+			"Kozu",
+			"Iosu"
+		]			
+	},
+ {
+		"name": "Dominion Of India",
+		"leaderName": "Lord Mountbatten",
+		"adjective": [
+			"Raj Indian"
+		],
+		"startBias": [
+			"Coast"
+		],
+ 		                                                           "preferredVictoryType": "Cultural",
+	 	"startIntroPart1": "no",
+		"startIntroPart2": "haha nah",
+		"declaringWar": "We see you as an obstacle in our colonial effort,so you must go.",
+		"attacked": "Our troops will destroy you,you will regret this.",
+		"defeated": "It is true that an outsider like me won't be able to rule for long.Can you do it?.",
+		"introduction": "Hello,i am Louis Mountbatten,Viceroy and Governor-General of India.We seek expansion in peace but will any who attack our allies shall pay the same price as them.",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			"What?",
+			"What do you need?.",
+			"Is there anything you want?."
+		],
+		"neutralNo": [
+			"I cannot accept.",
+			"Sorry,no",
+			"I have to refuse,sorry."
+ 		],
+		"neutralYes": [
+			"Sure.",
+			"Great!",
+			"A great deal,i accept."
+		],
+		"hateHello": "What are you doing here?",
+		"hateLetsHearIt": [
+			"What do you want here?",
+			"Just say it.",
+			"Why are you here?"
+		],
+		"hateNo": [
+			"Is this a demand?",
+			"Never!",
+			"I refuse!"
+		],
+		"hateYes": [
+			"Good",
+			"Seems good.",
+			"Fine!"
+		],
+		"afterPeace": [
+			"Well then,goodbye"
+		],
+		"tradeRequest": "Would you be interested in a little trading?",
+		"outerColor": [
+  		205,
+			92,
+    92
+		],
+		"innerColor": [
+			255,
+			69,
+			0
+		],
+		"cities": [
+			"New Delhi",
+			"Mumbai",
+			"Bombay",
+			"Jaipur",
+			"Ahmedabad",
+			"Lucknow",
+			"Chennai",
+			"Surat",
+			"Kochi",
+			"Mysuru",
+			"Chindwara",
+			"Indor",
+			"Kanpur",
+			"Najpur",
+			"Visakhapatnam",
+			"Madurai",
+			"Bengaluru",
+			"Hubbli",
+			"Nellore",
+			"Bhilai",
+			"Latnar",
+			"Gwilai",
+			"Lakhimpur",
+			"Ranlai",
+			"Puri",
+			"Arangabad",
+			"Ajmer",
+			"Kota",
+			"Udaipur",
+			"Baikanner",
+			"Kanguli",
+			"Barailli",
+			"Lakhaipou",
+			"Jaunpur",
+			"Varanasi",
+			"Gaya",
+			"Bhaidark",
+			"Gwailper"
+		]			
+	},
+ {
+		"name": "Papal State",
+		"leaderName": Pope Innocent III,
+		"adjective": ["Papal State"],
+		"startBias": ["Grasslans"],
+		"preferredVictoryType": "Cultural",
+		
+   "startIntroPart1": "nah",	                                        "startIntroPart2": "not creative enough",
+		
+		"declaringWar": "God have gave me vision of the future,your defeat is inevitable!.",
+		"attacked": "God shall punish you for your blasphemous act.",		               "defeated": "You are a sinner,a blasphemous sinner.God will not forgive your barbaric actions.",
+		"introduction": "I believe this encounter is God's will.I am Pope Innocent,head of the Papal State and the religion of the God of Abraham.",
+		"neutralHello": "Ah,hello.",
+		"neutralLetsHearIt": [
+			"What is it?",
+			"I'm listening.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"I must decline",
+			"Sorry,no",
+			"Sorry"
+		],
+		"neutralYes": [
+			"I accept",
+			"Thank you.",
+			"Yes."
+		],
+		"hateHello": "Why are you here?",
+		"hateLetsHearIt": [
+			"Hmm?",
+			"I am listening",
+			"What do you want?"
+		],
+		"hateNo": [
+			"Unacceptable.",
+			"Never.",
+			"Just get out."
+		],
+		"hateYes": [
+			"Okay",
+			"Good enough.",
+			"Well,i must accept"
+		],
+		"afterPeace": [
+			"Our religion does not support violence,you are lucky..."
+		],
+		"tradeRequest": "I have a small proposal here,i pray that you accept it.",
+		"outerColor": [
+			255,
+			215,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"cities": ["Rome","Florence","what","Split","Sarejavo","Podgorica","Novi Sad","Nis","Săbac",
+			"Leskovac","Skopje",
+			"Prizen",
+			"Tuzla",
+			"Mostar",
+			"Slavonski",
+			"Osijiek",
+			"Maribor",
+			"Trieste",
+			"Rijeka",
+			"Peja",
+			"Pristina",
+			"Zabijak",
+			"Peja",
+			"Visegrad",
+			"Ojinika",
+			"Konijik",
+			"Knin",
+			"Jadar",
+			"Starigrad",
+			"Pula",
+			"Llubjiana",
+			"Kamnik",
+			"Maribor",
+			"Bitola",
+			"Cacak",
+			"Subotica",
+			"Dakovo",
+			"Kutina",
+			"Sisak",
+			"Săkva",
+			"Arekajo"]
+	},
+ {
+		"name": "Bulgaria",
+		"leaderName": "Boris III",
+		"adjective": [
+			"Bulgarian"
+		],
+		"startBias": [
+			"Plains"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "h",
+		"startIntroPart2": "b",
+		"declaringWar": "Your people would be much happier under my rule.",
+		"attacked": "You have betrayed my trust for you,i will make you pay the price you deserves !",
+		"defeated": "Your victory is as fragile as ice, it will not last for long.",
+		"introduction": "Great day, i am Boris III of Bulgaria,we seek to expand ourself, and i hope you do not interfere with our business.",
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": [
+			"What?",
+			"Is there anything you need ?",
+			"?"
+		],
+		"neutralNo": [
+			"No.",
+			"I cannot accept.",
+			"That is unacceptable."
+		],
+		"neutralYes": [
+			"I agree.",
+			"Great,thank you.",
+			"Accepted."
+		],
+		"hateHello": "What is it now ?",
+		"hateLetsHearIt": [
+			"I don't have much time.",
+			"Hmm?",
+			"What do you want ?"
+		],
+		"hateNo": [
+			"Never.",
+			"I cannot accept this under any circumstance.",
+			"We refuse the deal."
+		],
+		"hateYes": [
+			"Whatever.",
+			"Good enough.",
+			"Well, i accept."
+		],
+		"afterPeace": [
+			"I sincerely accept.May we never have to fight such a bloody conflict again."
+		],
+		"tradeRequest": "A little trading perhaps ?",
+		"outerColor": [
+			68,
+			255,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"cities": [
+			"Sofia",
+			"Plovdiv",
+			"Pernik",
+			"Pleven",
+			"Blagoevgrad",
+			"Montana",
+			"Haskovo",
+			"Veliko Tarnovo",
+			"Sliven",
+			"Shumen",
+			"Burgas",
+			"Dobrich",
+			"Varna",
+			"Sunny Beach",
+			"Vratsa",
+			"Pazardzich",
+			"Bansko",
+			"Vidin",
+			"Ruse",
+			"Novi Pazar",
+			"Razgrad",
+			"Kazanluk",
+			"Stara Zagora",
+			"Azenov",
+			"Kardzali",
+			"Lovech",
+			"Sandanski",
+			"Svishtov",
+			"Harmanli",
+			"Smolyan",
+			"Targovishte",
+			"Lukovit",
+			"Berkovitsa",
+			"Radnevo",
+			"Elhovo",
+			"Eytos",
+			"Tsarevo",
+			"Tervel"
+		]			
+	},
+ {
+		"name": "United Kingdom",
+		"leaderName": "Clement Atlee",
+		"adjective": [
+			"British"
+		],
+		"startBias": [
+			"Coast"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "I didnt add in Winston Churchill because he's not actually that important to WW2 which is why he lost the election after the war.Gave a speech here and there to boost morale , and that's mostly it.Also Indian people doesnt like him and so does the rest of the empire.",
+		"startIntroPart2": "hee",
+		"declaringWar": "The British Empire needs more colonies to supply it,your land will do.",
+		"attacked": "Your army will tremble before the might of the British Empire",
+		"defeated": "You have taken us down.I congratulate you for your impressive achievement.",
+		"introduction": "Welcome to the United Kingdom.I believe that we have many things to discuss.",
+		"neutralHello": "Great day.",
+		"neutralLetsHearIt": [
+			"I'm listening.",
+			"Can i help ?",
+			"What do you need today ?."
+		],
+		"neutralNo": [
+			"I aplogise.",
+			"I cannot accept that.",
+			"We reject the deal8."
+		],
+		"neutralYes": [
+			"We graciously accept.",
+			"My thanks to you.",
+			"Sure."
+		],
+		"hateHello": "What is it again ?",
+		"hateLetsHearIt": [
+			"What ?",
+			"Get this over with",
+			"Why are you here ?"
+		],
+		"hateNo": [
+			"Never",
+			"I refuse",
+			"I cannot accept"
+		],
+		"hateYes": [
+			"Well then,i accept",
+			"Good.",
+			"I accept the deal"
+		],
+		"afterPeace": [
+			"I do not want to waste human life on war, we accept the treaty"
+		],
+		"tradeRequest": "Do these goods suit you ?",
+		"outerColor": [
+			37,
+			50,
+			216
+		],
+		"innerColor": [
+			216,
+			37,
+			72
+		],
+  "uniqueName": "Their Finest Hour",
+  "uniques": ["All military naval units receive +1 movement and +1 sight","Enemy land units must spend 1 extra movement point when inside your territory (obsolete upon Dynamite)"],    
+		"cities": ["London","Liverpool","Oxford","Brighton","Cambridge","Manchester","Leeds","Bristol","Plymouth","Cardiff","York","Newcastle","Glasgow","Edinburgh","Canterbury","Dundee","Aberdeen","Inverness","Nottingham","Leicester","Bath","Exeter","Reading","Belfast","Londonderry Derry","Blackpool","Norwich","Ipswich","Southamton","Swansea","Middlebrough","Dumfries","Ingenborough","Lancaster","Carlisle","Swindon","Bournemouth","Southend-on-sea","Hull","Perth","Torquay","Hastings"
+		]			
+	},
+ {
+		"name": "Latvia",
+  	"leaderName": "Karlis Ulmanis",
+		"adjective": [
+			"Latvian"
+		],
+		"startBias": [
+			"None"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": ".",
+		"startIntroPart2": "",
+		"declaringWar": "We will prosper once you're out.",
+		"attacked": "We will fight to the last breath.",
+		"defeated": "Have mercy on my people.",
+		"introduction": "Hello,i am Karlis Umanis,leader of the Latvian nation.",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			"Yes?",
+			"What?",
+			"We will try to help."
+		],
+		"neutralNo": [
+			"Unacceptable.",
+			                                                "No",
+ 			"We cannot help."
+		],
+		"neutralYes": [
+			"Great.",
+			"Of course.",
+			"Good."
+		],
+		"hateHello": "What is your intention ?",
+		"hateLetsHearIt": [
+			"Hmm?",
+			"Why are you here ?",
+			"What?"
+		],
+		"hateNo": [
+			"Absolutely unacceptable.",
+			"Never.",
+			"What? I cannot accept this."
+		],
+		"hateYes": [
+			"Sure.",
+			"Good.",
+			"Accepted!"
+		],
+		"afterPeace": [
+			"Shall we call this a tie ?"
+		],
+		"tradeRequest": "We propose this trade.",
+		"outerColor": [
+			245,
+			3,
+			3
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+   "uniqueName": "Song Of Rebirth",  
+   "uniques": ["Golden Age length increases +50%","Culture cost of adopting new Policies reduced by 10%","Unhappiness from population decreased by [5]%"],  
+		"cities": [
+			"Riga",
+			"Jurmala",
+			"Daugavpils",
+			"Jelvala",
+			"Ogre",
+			"Odus",
+			"Vierpara",
+			"Jamala",
+			"Valmiera",
+			"Cesis",
+			"Sigulda",
+			"Limbazi",
+			"Balvi",
+			"Tukum",
+			"Smiltin",
+			"Balvi",
+			"Saldus",
+			"Liepaja",
+			"Albana",
+			"Madona",
+			"Aluksne",
+			"Rauna",
+			"Iecava",
+			"Bauska",
+			"Aizkrauzkle",
+			"Nerekta",
+			"Cesvaine",
+			"Preila",
+			"Dagda",
+			"Aglona",
+			"Karsava",
+			"Zilupe",
+			"Ezernieiki",
+			"Pure",
+			"Roja",
+			"Alkin",
+			"Kolka",
+			"Regi"
+		]			
+	},
+ {
+		"name": "Boer Republic",
+		"leaderName": "Paul Kruger",
+		"adjective": [
+			"Boer"
+  	],
+		"startBias": [
+ 			"Avoid Tundra"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "n.",
+		"startIntroPart2": "bn.",
+		"declaringWar": "We need more land, your's will do.",
+		"attacked": "We will make you pay great price for this.",
+		"defeated": "Our legacy will live on forever.",
+		"introduction": "Welcome to the far away land of the Boers, i am Paul Kruger, the leader of the Boer Republic.",
+		"neutralHello": "Yes?",
+		"neutralLetsHearIt": [
+			"I 'm listening.",
+			"What?",
+			"Can i help ?"
+		],
+		"neutralNo": [
+			"I cannot accept.",
+			"I apologise.",
+			"No,sorry."
+		],
+		"neutralYes": [
+			"Thanks.",
+			"Great deal.",
+			"I accept."
+		],
+		"hateHello": "Hmm?",
+		"hateLetsHearIt": [
+			"Why are you here ?!",
+			"I don't have much time",
+			"Say what you want."
+		],
+		"hateNo": [
+			"I absolutely refuse !",
+			"Never !",
+			"Get out of my sight."
+		],
+		"hateYes": [
+			"Good enough.",
+			"Whatever.",
+			"If i must."
+		],
+		"afterPeace": [
+			"So many have died in the war,i pray this never happen again."
+		],
+		"tradeRequest": "I have a proposal,o hope you accept it.",
+		"outerColor": [
+			224,
+			44,
+			44
+		],
+		"innerColor": [
+			19,
+			13,
+			168
+		],
+  "uniqueName": "The Great Trek",
+  "uniques": ["[+1 Culture] from every [Farm]","[+1 Gold] from every [Farm]","[+1 Food] from every [Farm]"],
+		"cities": [
+			"Pretoria",
+			"Johannesburg",
+			"Bloemfomteim",
+			"Maseru",
+			"Welkom",
+			"Mokopane",
+			"Mahikeng",
+			"Polokwayne",
+		 "Thohoyandou",
+			"Kimberly",
+			"Klerksdorp",
+			"Soweto",
+			"Kroonstad",
+			"Sun City",
+			"Louis Trichardt",
+			"Musins",
+			"Ernelo",
+			"Newcastle",
+			"Bethelem",
+			"Harrismith",
+			"Ladysmith",
+			"Zeerust",
+			"Boshabelo",
+			"Postrefstroom",
+			"Vreeburg",
+			"Lephalele",
+			"Ladenburg",
+			"Hazyview",
+			"Tzaneen",
+			"Hopetown",
+			"Aliwalnorth",
+			"Vereeniging",
+			"Parys",
+			"Heilbron",
+			"Frankfort",
+			"Evander",
+			"Standerton",
+			"Vijandereebigh"
+		]			
+	},
+ {
+		"name": "Goths",
+		"leaderName": "Alaric I",
+		"adjective": [
+			"Gothics"
+		],
+		"startBias": [
+			"None"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "t.",
+		"startIntroPart2": "tea party bing bing.",
+		"declaringWar": "Prepare to see your land razed to ashes and ruins !",
+		"attacked": "Your men's blood will flow like rivers !",
+		"defeated": "Curse you !.",
+		"introduction": "This is the land of the Goths. I am Alaric I and you are under my mercy",
+		"neutralHello": "What ?",
+		"neutralLetsHearIt": [
+			"Hmm ?",
+			"What ?",
+			"Time is precious."
+		],
+		"neutralNo": [
+			"No.",
+			"Go away.",
+			"I do not accept."
+		],
+		"neutralYes": [
+			"Haha,good deal !",
+			"Very good !",
+			"Sure !"
+		],
+		"hateHello": "I don't have time for you !",
+		"hateLetsHearIt": [
+			"What?",
+			"You are unwelcomed.",
+			"What are you doing here ?"
+		],
+		"hateNo": [
+			"WHAT?",
+			"Unacceptable!",
+			"Get out !"
+		],
+		"hateYes": [
+			"I'm in a good mood today,you're lucky.",
+			"Good.",
+			                                "It seems you are sincere,i must accept then."
+		],
+		"afterPeace": [
+			"If we do not destroy you now then we will destroy you later."
+		],
+		"tradeRequest": "I'm in a good mood today, why not a little trading ?",
+		"outerColor": [
+			0,
+			0,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+   "uniqueName": "Healthy Plundering",
+   "uniques": ["+15% Combat Strength for all units when attacking Cities","-33% unit upkeep costs"],
+		"cities": [
+			"Toulouse",
+			"Perpignam",
+			"Agen",
+			"Aubi",
+			"Montauban",
+			"Narbonne",
+			"Pau",
+			"Lorbes",
+			"Huesca",
+			"Bayonn",
+			"Lleida",
+			"Taralona",
+			"Pamplona",
+			"Girona",
+			"Barcelona",
+			"Toriel",
+			"Solona",
+			"Soria",
+			"Valencia",
+			"Alicante",
+			"Murcia",
+			"Cuenca",
+			"Madrid",
+			"Getafe",
+			"Toledo",
+			"Placencia",
+			"Salamanca",
+			"Beziers",
+			"Montepellier",
+			"Caceres",
+			"Barajoz",
+			"Lisbon",
+			"Cordoba",
+			"Coimbra",
+			"Viseau",
+			"Braga",
+			"Rigo",
+			"Leon"
+		]			
+	},
+ {
+		"name": "Normandy",
+		"leaderName": "William The Conqueror",
+		"adjective": [
+			"Norman"
+		],
+		"startBias": [
+			"Avoid [Desert] "
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "reeeeee.",
+		"startIntroPart2": "eeeeee",
+		"declaringWar": "Your army will fall under the sight of mine !",
+		"attacked": "Are you insane ?!",
+		"defeated": "So end our days of glory...At least for now.",
+		"introduction": "Greetings. Welcome to the Duchy Of Normandy, why not have a little talk here ?",
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": [
+			"Hello.",
+			"So what is it ?.",
+			"?"
+		],
+		"neutralNo": [
+			"No.",
+			"I cannot accept",
+			"I do not accept"
+		],
+		"neutralYes": [
+			"Sure.",
+			"I accept.",
+			"Hmm,good."
+		],
+		"hateHello": "What?",
+		"hateLetsHearIt": [
+			"Hmm?",
+			"What are you here for?",
+			"What do you want ?"
+		],
+		"hateNo": [
+			"By god, no",
+			"Absolutely not.",
+			"Well, no"
+		],
+		"hateYes": [
+			"Whatever.",
+			"The deal is good enough.",
+			"I accept."
+		],
+		"afterPeace": [
+			"I shall have your head next time if that time does come."
+		],
+		"tradeRequest": "My envoy comes with my request, treat them well",
+		"outerColor": [
+			255,
+			0,
+			0
+		],
+		"innerColor": [
+			241,
+			254,
+			45
+		],
+		"cities": [
+			"Rouen",
+			"Lehavre",
+			"Caen",
+			"Bayeaux",
+			"Lisieux",
+			"Dieppe",
+			"Saint Lô",
+			"Coutances",
+			"Granville",
+			"Vire",
+			"Avranches",
+			"Fougeret",
+			"Barneville-Cateret",
+			"Saint-Valery-en-caus",
+			"Fécamp",
+			"Étretat",
+			"Vierville-sur-Mer",
+			"Deauxville",
+			"Honflour",
+			"Yvetot",
+			"Carne-Barville",
+			"Barentin",
+			"Lillebon",
+			"Lessay",
+			"Portbail",
+			"Flamenville",
+			"Omonville-la-Petite",
+			"Claisy",
+			"Arromaches-les-Bains",
+			"Falaise",
+			"Brionne",
+			"Pont-Audemers",
+			"Monteville",
+			"Boubet",
+			"Treauville",
+			"Yport",
+			"Augare",
+			"Monts-aus-Heime"
+		]			
+	}
+]
