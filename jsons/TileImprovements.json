@@ -1,0 +1,65 @@
+[
+ {
+		"name": "Syrup Camp",
+		"uniqueTo": "Canada",
+		"food": 3,
+		"turnsToBuild": 8,
+		"techRequired": "Chemistry",
+		"improvingTech": "Biology",
+		"improvingTechStats": {"food":1,"culture":3},
+		"terrainsCanBeBuiltOn": ["Forest"]
+ },
+ {
+		"name": "Reduit",
+		"uniqueTo": "Switzerland",
+		"food": 1,
+  "production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Military Science",
+		"improvingTech": "Radio",
+		"improvingTechStats": {"production":1},
+  "uniques": ["Gives a defensive bonus of 50%"]
+		"terrainsCanBeBuiltOn": ["Hill"]
+ },
+ {
+		"name": "Schloss",
+		"uniqueTo": "Bavaria",
+		"culture": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Chivalry",
+		"improvingTech": "Flight",
+		"improvingTechStats": {"culture":1},
+  "uniques": ["[+1 Culture] for each adjacent [Mountain]"]
+		"terrainsCanBeBuiltOn": ["Hill"]
+ },
+ {
+		"name": "Archaeological Site",
+  "culture": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Archaeology",
+		"improvingTech": "Computer",
+		"improvingTechStats": {"culture":2},
+	},
+ {
+		"name": "Motte And Bailey",
+		"uniqueTo": "Normandy",
+		"gold": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Construction",
+  "uniques": ["Gives a defensive bonus of 50%"]
+		"improvingTech": "Banking",
+		"improvingTechStats": {"gold":2},
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains"]
+	},
+ {
+		"name": "Rice Farm",
+		"uniqueTo": "Vietnam",
+		"food": 1,
+  "culture": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Pottery",
+		"improvingTech": "Fertilizer",
+		"improvingTechStats": {"food":1,"culture":1},
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains"]
+	}
+]
