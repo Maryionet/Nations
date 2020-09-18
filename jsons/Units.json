@@ -66,6 +66,7 @@
   "obsoleteTech": "Rifling",
 		"requiredTech": "Gunpowder",
 		"hurryCostModifier": 10,
+  "upgradesTo":"Pike And Shot",
 		"attackSound": "shot"                 
  },
  {
@@ -714,5 +715,5 @@
   "promotions": ["Barrage I","Barrage II"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"                 
- },
+ }
 ]

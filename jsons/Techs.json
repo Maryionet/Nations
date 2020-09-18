@@ -1,0 +1,74 @@
+[
+ {
+		"columnNumber": 6,
+		"era": "Medieval",
+		"techCost": 485,
+  "buildingCost": 200, 
+  "wonderCost": 500,
+		"techs": [
+    	{
+				"name": "Patronage",
+				"row": 7,
+				"prerequisites": ["Guilds","Civil Service"],
+				"quote": "Everything passes-Robust art alone is eternal. The bust survives the city."
+			},
+  ] 
+ },
+  {
+		"columnNumber": 7,
+		"era": "Renaissance",
+		"techCost": 780,
+  "buildingCost": 250, 
+  "wonderCost": 625,
+		"techs": [
+			{
+				"name": "Acoustics",
+				"row": 8,
+				"prerequisites": ["Education","Patronage"],
+				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
+			}
+  ]
+ },
+	{
+		"columnNumber": 8,
+		"era": "Renaissance",
+		"techCost": 780,
+  "buildingCost": 250, 
+  "wonderCost": 625,
+		"techs": [
+			{
+				"name": "Publishing",
+				"row": 8,
+				"prerequisites": ["Printing Press","Banking"],
+				"quote": "There are three difficulties in authorship: To write anything worth publishing, to find honest men to publish it and to find sensible men to read it- Charles Caleb Colton"
+			},
+   {
+				"name": "Calculus",
+				"row": 3,
+				"prerequisites": ["Astronomy"],
+				"quote": "'In the fall of 1972 President Nixon announced that the rate of increase of inflation was decreasing. This was the first time a sitting president used the third derivative to advance his case for reelection'-Hugo Rossi"
+			},
+		]
+	},
+ {
+		"columnNumber": 9,
+		"era": "Industrial era",
+		"techCost": 1600,
+		"buildingCost": 360,
+		"wonderCost": 920,
+		"techs": [
+   {
+				"name": "Rifling",
+				"row": 7,
+				"prerequisites": ["Metallurgy","Publishing"],
+				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
+			},
+   {
+				"name": "Scientific Theory",
+				"row": 4,
+				"prerequisites": ["Calculus","Architecture"],
+				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
+			}
+  ]
+ }
+]
